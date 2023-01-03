@@ -17,4 +17,3 @@ My name is Paul Vogel.
 
 #### My GitHub Statistics
 [![Statistics](https://github-readme-stats.vercel.app/api?username=pavog&show_icons=true&count_private=true&hide_title=true)](https://github.com/pavog)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavog&layout=compact)](https://github.com/pavog)
